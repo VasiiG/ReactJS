@@ -1,0 +1,62 @@
+{
+    "users": [
+        [
+            {
+              "_id": "5f68ec46e7c8a7e378f5ad15",
+              "index": 0,
+              "isActive": true,
+              "isAdmin": false,
+              "picture": "https://picsum.photos/250/300?random=1",
+              "age": 23,
+              "name": "Duke Cook",
+              "email": "dukecook@zytrac.com",
+              "password": 12345
+            },
+            {
+              "_id": "5f68ec46600965d0ca1c7988",
+              "index": 1,
+              "isActive": false,
+              "isAdmin": true,
+              "picture":  "https://picsum.photos/250/300?random=2",
+              "age": 21,
+              "name": "Mayra Bowers",
+              "email": "mayrabowers@zytrac.com",
+              "password": 12345
+            },
+            {
+              "_id": "5f68ec468b62b792ea08e46c",
+              "index": 2,
+              "isActive": false,
+              "isAdmin": false,
+              "picture":  "https://picsum.photos/250/300?random=3",
+              "age": 23,
+              "name": "Romero Hartman",
+              "email": "romerohartman@zytrac.com",
+              "password": 12345
+            },
+            {
+              "_id": "5f68ec467414564af7f535ee",
+              "index": 3,
+              "isActive": true,
+              "isAdmin": false,
+              "picture":  "https://picsum.photos/250/300?random=4",
+              "age": 21,
+              "name": "Ann Wilkinson",
+              "email": "annwilkinson@zytrac.com",
+              "password": 12345
+            },
+            {
+              "_id": "5f68ec46fc0105e2ac663844",
+              "index": 4,
+              "isActive": true,
+              "isAdmin": false,
+              "picture":  "https://picsum.photos/250/300?random=5",
+              "age": 40,
+              "name": "Marta Mclaughlin",
+              "email": "martamclaughlin@zytrac.com",
+              "password": 12345
+            }
+          ]
+    ],
+    "notes": []
+}
